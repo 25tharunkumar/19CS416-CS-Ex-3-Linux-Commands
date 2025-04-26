@@ -1,8 +1,8 @@
 # Ex-03-Linux-Commands
 
-Name: RAVIVARMAN G S
+Name: THARUN KUMAAR
 
-Reg. No.: 212223100044
+Reg. No.: 212222100056
 
 
 ## Aim:
